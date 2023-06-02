@@ -55,12 +55,7 @@ a.active {
     border: 1px solid white;
 }
 
-a.active,
-a:hover {
-    border: 1px solid white;
-    transition: .5s;
-    background-color: wheat;
-}
+
 
 nav #icon {
     color: white;
